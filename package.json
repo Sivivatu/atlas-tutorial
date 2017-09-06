@@ -1,0 +1,14 @@
+{
+  "name": "atlas-tutorial-app",
+  "version": "1.0.0",
+  "description": "app created following the atlas tutorial on mongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Houghton",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.31"
+  }
+}
